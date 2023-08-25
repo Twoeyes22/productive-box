@@ -16,7 +16,7 @@
    <br/>
    When are you most productive during the day?
    <br/>
-   Let's check out in gist!아 왜 안돼!!
+   Let's check out in gist!아 왜 안돼!
 </p>
 
 ---
